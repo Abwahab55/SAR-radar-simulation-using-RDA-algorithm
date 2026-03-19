@@ -199,7 +199,7 @@ The Range-Doppler Algorithm (RDA) is a classical SAR focusing algorithm. The key
 ## Author
 
 **Abdul Wahab**
-AE @ Lumissil Microsystems | SiC power systems → Cloud computing | 5 IEEE publications
+AE @ Lumissil Microsystems | SiC power systems → Cloud computing
 
 - GitHub: [@Abwahab55](https://github.com/Abwahab55)
 - Email: wahab.engr55@yahoo.com
