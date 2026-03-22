@@ -4,6 +4,7 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-orange?style=flat-square&logo=mathworks)
 ![Signal Processing](https://img.shields.io/badge/Domain-SAR%20%7C%20Signal%20Processing-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 ---
@@ -203,6 +204,13 @@ AE @ Lumissil Microsystems | SiC power systems → Cloud computing
 
 - GitHub: [@Abwahab55](https://github.com/Abwahab55)
 - Email: wahab.engr55@yahoo.com
+
+---
+
+  ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2026 Abdul Wahab
 
 ---
 
